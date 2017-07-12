@@ -1,0 +1,5 @@
+H:\Semester 2\COMP123\Lab Demo 1\Demo 1\bin\Debug\Demo 1.exe.config
+H:\Semester 2\COMP123\Lab Demo 1\Demo 1\bin\Debug\Demo 1.exe
+H:\Semester 2\COMP123\Lab Demo 1\Demo 1\bin\Debug\Demo 1.pdb
+H:\Semester 2\COMP123\Lab Demo 1\Demo 1\obj\Debug\Demo 1.exe
+H:\Semester 2\COMP123\Lab Demo 1\Demo 1\obj\Debug\Demo 1.pdb

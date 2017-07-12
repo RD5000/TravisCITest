@@ -1,0 +1,6 @@
+H:\Semester 2\COMP123\Lab Demo 1\Lab Demo\bin\Debug\Lab Demo.exe.config
+H:\Semester 2\COMP123\Lab Demo 1\Lab Demo\bin\Debug\Lab Demo.exe
+H:\Semester 2\COMP123\Lab Demo 1\Lab Demo\bin\Debug\Lab Demo.pdb
+H:\Semester 2\COMP123\Lab Demo 1\Lab Demo\obj\Debug\Lab Demo.csprojResolveAssemblyReference.cache
+H:\Semester 2\COMP123\Lab Demo 1\Lab Demo\obj\Debug\Lab Demo.exe
+H:\Semester 2\COMP123\Lab Demo 1\Lab Demo\obj\Debug\Lab Demo.pdb
